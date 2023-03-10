@@ -1,4 +1,4 @@
-<align="center" # Living simple life >
+<h1 align="center"> Living simple life </h1> 
 
 ## Description
 Welcome to my project! This is a living simple life App made in html and css. It tells users how you can find simplicity in the life you are living.
